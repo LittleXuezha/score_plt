@@ -5,7 +5,7 @@
 # Created by: PyQt5 UI code generator 5.11.3
 #
 # WARNING! All changes made in this file will be lost!
-
+# 界面文件
 from PyQt5 import QtCore, QtWidgets
 
 class Ui_Form(object):
